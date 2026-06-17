@@ -1,22 +1,26 @@
-# Elisa Guérin — Data Analyst
+# Elisa Guérin 👋
 
-Data Analyst spécialisée e-commerce et marketplaces. Je code en Python et SQL pour transformer des données business en décisions concrètes.
+**Data Analyst spécialisée e-commerce et marketplaces**
+
+📍 Bordeaux | 📊 Data Analyst | 🔗 [Portfolio](https://elisaguerin95-code.github.io/Portfolio/) | 💼 [LinkedIn](https://www.linkedin.com/in/elisa-guerin/)
 
 ---
 
-## 🧭 Mon profil
+J'utilise Python, SQL et Power BI pour transformer les données e-commerce en décisions concrètes.
+
+## 🧭 En chiffres
 
 - 📦 6 ans d'expérience opérationnelle en e-commerce et marketplaces
 - 🎓 Formation Data Analyst, Wild Code School / Simplon (2026)
-- 🎯 Je vise des postes Data Analyst et Data Scientist junior, avec une préférence pour les contextes e-commerce, retail ou marketplace
+- 🚀 Projets data publiés sur GitHub et Portfolio
 
-Mon positionnement : une base technique récente, mise en perspective par une vraie expérience terrain.
+Mon atout : combiner une expérience métier solide en e-commerce avec des compétences en analyse de données pour répondre à des problématiques business concrètes.
 
 ---
 
 ## 🛠️ Stack technique
 
-`Python` `SQL` `Excel` `Power BI` `Scikit-learn` `Streamlit`
+`Python` `SQL` `Excel` `Power BI` `Scikit-learn` `Streamlit` `Git`
 
 En cours d'apprentissage : `Snowflake`
 
@@ -26,10 +30,4 @@ En cours d'apprentissage : `Snowflake`
 
 - 🎬 **[Système de recommandation de films](https://github.com/elisaguerin95-code/Projet-2--Systeme-de-Recommandation-de-Films)** — algorithme KNN, API OMDB, déployé sur Streamlit
 - 💡 **Outil de pricing e-commerce** — Machine Learning *(en cours)*
-- 🌐 **[Portfolio complet](https://elisaguerin95-code.github.io/Portfolio/index.html)** — tous mes projets et mon parcours en un seul endroit
-
----
-
-## 📬 Me contacter
-
-[LinkedIn](https://www.linkedin.com/in/elisa-guerin/)
+- 🌐 **[Portfolio](https://elisaguerin95-code.github.io/Portfolio/)** — présentation de mes projets, compétences et parcours
