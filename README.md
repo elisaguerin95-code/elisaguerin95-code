@@ -26,7 +26,7 @@ En cours d'apprentissage : `Snowflake`
 
 - 🎬 **[Système de recommandation de films](https://github.com/elisaguerin95-code/Projet-2--Systeme-de-Recommandation-de-Films)** — algorithme KNN, API OMDB, déployé sur Streamlit
 - 💡 **Outil de pricing e-commerce** — Machine Learning *(en cours)*
-- 🌐 **[Portfolio complet](LIEN_SITE_PORTFOLIO_ICI)** — tous mes projets et mon parcours en un seul endroit
+- 🌐 **[Portfolio complet](https://elisaguerin95-code.github.io/Portfolio/index.html)** — tous mes projets et mon parcours en un seul endroit
 
 ---
 
